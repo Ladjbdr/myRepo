@@ -1,2 +1,2 @@
-getting how it works 
+getting how it works /
 made my push successfuly
